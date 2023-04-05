@@ -3,9 +3,9 @@
 |  ---  |
 |Noções em declaração de variáveis| 
 
-|Operadores|
-|  ---  |
-|Aritmétricos|
+|Aritmétricos|| Descrição |
+|  ---  |  ---  |
+
 |Unários| Descrição |
 |  ---  |  ---  |
 |+	|Operador unário de valor positivo – números são positivos sem esse operador explicitamente|
@@ -14,7 +14,10 @@
 |—	|Operador unário de decremento de valor – decrementa o valor em 1 unidade|
 |!	|Operador unário lógico de negação – nega o valor de uma expressão booleana|
 
-|Relacionais|
-|Lógicos|
-|Ternários|
+|Relacionais| Descrição |
+|  ---  |  ---  |
+|Lógicos| Descrição |
+|  ---  |  ---  |
+|Ternários| Descrição |
+|  ---  |  ---  |
 
