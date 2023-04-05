@@ -1,4 +1,4 @@
-## Trabalhando com Tipos e variáveis em Java
+## Trabalhando os tipos e variáveis em Java
 
 Java:
 
