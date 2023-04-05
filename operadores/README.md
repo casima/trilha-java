@@ -3,7 +3,7 @@
 |  ---  |
 |Noções em declaração de variáveis| 
 
-|Aritmétricos|| Descrição |
+|Aritmétricos| Descrição |
 |  ---  |  ---  |
 |Adição	|+|
 |Subtração	|-|	
