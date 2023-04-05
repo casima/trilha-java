@@ -3,5 +3,11 @@
 |  ---  |
 |Noções em declaração de variáveis| 
 
-Operadores
+|Operadores|
+|  ---  |
+|Aritmétricos|
+|Unários|
+|Relacionais|
+|Lógicos|
+|Ternários|
 
