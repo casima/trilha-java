@@ -5,6 +5,11 @@
 
 |Aritmétricos|| Descrição |
 |  ---  |  ---  |
+|Adição	|+|
+|Subtração	|-|	
+|Multiplicação	|*	|
+|Divisão	|/	|
+|Resto	|%|
 
 |Unários| Descrição |
 |  ---  |  ---  |
