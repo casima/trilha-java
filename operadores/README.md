@@ -1,5 +1,5 @@
 ## Operadores em Java
-|Pré-requisitos: |
+|Pré-requisito: |
 |  ---  |
 |Noções em declaração de variáveis| 
 
