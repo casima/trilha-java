@@ -21,8 +21,10 @@
 
 |Lógicos| Descrição |
 |  ---  |  ---  |
+
 |Ternários| Descrição |
 |  ---  |  ---  |
 |  (a==b) ? 1 : 0    | condição ? expressão Verdadeira : expressão Falsa|
+
 |Relacionais| Descrição |
 |  ---  |  ---  |
