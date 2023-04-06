@@ -55,5 +55,15 @@ public class App {
         success = !success;
         System.out.println(success);
         System.out.println("Fim Unários\n\n");
+    
+        //Operador ternário
+
+        int a = 5;
+        int b = 6;
+
+        String valor = a==b ? "Verdadeiro" : "Falso"; // condição em uma linha
+        System.out.println(valor);
+        System.out.println("Fim ternário\n\n");
+    
     }
 }
