@@ -50,7 +50,7 @@ public class App {
  
         boolean success = false;
         System.out.println(success +" (valor declarado false)");
-        System.out.println(!success +" (na memória: false)");// mas saída: true
+        System.out.println(!success +" (na memória: false)");// saída: true
         System.out.println(success +" (false)");
         success = !success;
         System.out.println(success);
