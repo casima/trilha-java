@@ -68,6 +68,15 @@ public class App {
         System.out.println("Fim ternário\n\n");
 
         //Operador relacional
+        int numero1 = 1;
+        int numero2 = 2;
+
+        boolean simNao = numero1 == numero2;
+        System.out.println("Número 1 é igual a número 2? "+simNao);
+        simNao = numero1 != numero2;
+        System.out.println("Número 1 é diferente a número 2? "+simNao);
+
+        System.out.println("Fim relacional\n\n");
     
     }
 }
