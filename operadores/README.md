@@ -21,8 +21,8 @@
 
 |Lógicos| Descrição |
 |  ---  |  ---  |
-|  && |  Utilizado quando desejamos que as duas expressões sejam verdadeiras.   |
-|  || |  Utilizado quando precisamos que pelo meno um das expressões seja verdadeira.|
+|  and |  Utilizado quando desejamos que as duas expressões sejam verdadeiras.   |
+|  or |  Utilizado quando precisamos que pelo meno um das expressões seja verdadeira.|
 
 |Ternários| Descrição |
 |  ---  |  ---  |
