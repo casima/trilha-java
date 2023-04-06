@@ -76,6 +76,11 @@ public class App {
         simNao = numero1 != numero2;
         System.out.println("Número 1 é diferente a número 2? "+simNao);
 
+        String nomeUm = "Bruno";
+        String nomeDois = new String("Bruno");
+        System.out.println(nomeUm==nomeDois);//false
+        System.out.println(nomeUm.equals(nomeDois)); //true: equals utilizado para comparar quando usa objetos
+
         System.out.println("Fim relacional\n\n");
     
     }
