@@ -66,6 +66,8 @@ public class App {
         int valor2 = a==b ? 1 : 0; // condição em uma linha
         System.out.println(valor2);
         System.out.println("Fim ternário\n\n");
+
+        //Operador relacional
     
     }
 }

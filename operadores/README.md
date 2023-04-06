@@ -19,10 +19,10 @@
 |—	|Operador unário de decremento de valor – decrementa o valor em 1 unidade|
 |!	|Operador unário lógico de negação – nega o valor de uma expressão booleana|
 
-|Relacionais| Descrição |
-|  ---  |  ---  |
 |Lógicos| Descrição |
 |  ---  |  ---  |
 |Ternários| Descrição |
 |  ---  |  ---  |
-
+|  (a==b) ? 1 : 0    | condição ? expressão Verdadeira : expressão Falsa|
+|Relacionais| Descrição |
+|  ---  |  ---  |
