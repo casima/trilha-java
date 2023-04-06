@@ -49,9 +49,9 @@ public class App {
         System.out.println(resultado);
  
         boolean success = false;
-        System.out.println(success);
+        System.out.println(success +" (declarada ela é false)");
         System.out.println(!success +" (em memória ela é true)");//em memória ela é true
-        System.out.println(success);
+        System.out.println(success +" (continua false)");
         success = !success;
         System.out.println(success);
         System.out.println("Fim Unários\n\n");
