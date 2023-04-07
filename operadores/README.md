@@ -22,7 +22,7 @@
 |Lógicos| Descrição |
 |  ---  |  ---  |
 |  and |  Utilizado quando desejamos que as duas expressões sejam verdadeiras.   |
-|  or || |  Utilizado quando precisamos que pelo meno um das expressões seja verdadeira.|
+|  or |  Utilizado quando precisamos que pelo meno um das expressões seja verdadeira.|
 
 |Ternários| Descrição |
 |  ---  |  ---  |
