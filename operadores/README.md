@@ -30,10 +30,7 @@
 
 |Relacionais| Descrição |
 |  ---  |  ---  |
-|>|Utilizado quando desejamos verificar se uma variável é maior que outra.|
-
-|>=|Utilizado quando desejamos verificar se uma variável é maior ou igual a outra.|
-
-|<|Utilizado quando desejamos verificar se uma variável é menor que outra.|
-
-|<=|Utilizado quando desejamos verificar se uma variável é menor ou igual a outra.|
+| > | Utilizado quando desejamos verificar se uma variável é maior que outra. |
+| >= | Utilizado quando desejamos verificar se uma variável é maior ou igual a outra. |
+| < | Utilizado quando desejamos verificar se uma variável é menor que outra. |
+| <= | Utilizado quando desejamos verificar se uma variável é menor ou igual a outra. |
